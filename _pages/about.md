@@ -25,7 +25,7 @@ My research interest includes optimal transport and multi-modal alignment. I am 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gromov-Wasserstein Multi-modal Alignment and Clustering]([https://dl.acm.org/doi/abs/10.1145/3511808.3557339])
