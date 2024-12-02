@@ -25,14 +25,14 @@ My research interest includes optimal transport and multi-modal alignment. I am 
 
 # 📝 Publications 
 
-- *2022*, [Gromov-Wasserstein Multi-modal Alignment and Clustering]([https://dl.acm.org/doi/abs/10.1145/3511808.3557339])
+- CIKM 2022, [Gromov-Wasserstein Multi-modal Alignment and Clustering]([https://dl.acm.org/doi/abs/10.1145/3511808.3557339])
 
 **Fengjiao Gong**, **Xuzhou Nie**, Hongteng Xu
 
 
 
 # 📖 Educations
-- *2021.09 - now *,  a Ph.D. student at Gaoling School of Artificial Intelligence, Renmin University of China. 
+- 2021.09 - now,  a Ph.D. student at Gaoling School of Artificial Intelligence, Renmin University of China. 
 
 
 # 💻 Teaching Assistant
