@@ -43,7 +43,7 @@ I pursued my master's degree at the School of Automation, [Beijing Institute of 
 - [Extended State Observer Based Adaptive Integral Sliding Mode Control for Two Inertia System](https://ieeexplore.ieee.org/abstract/document/7334751)
   
   - **Fengjiao Gong**, Xuemei Ren
-  - 2015 7th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC 2015)
+  - The 7th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC 2015)
 
   
 # 📖 Educations
