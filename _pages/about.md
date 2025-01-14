@@ -40,8 +40,11 @@ I pursued my master's degree at the School of Automation, [Beijing Institute of 
 
   
 # 📖 Educations
-- 2021.09 - now,  a Ph.D. student at Gaoling School of Artificial Intelligence, Renmin University of China. 
+- Sep. 2021 - now,  a Ph.D. student at Gaoling School of Artificial Intelligence, Renmin University of China, majoring in Artificial Intelligence. 
 
+- Sep. 2013 - July 2016,  a graduate student at School of Automation, Beijing Institute of Technology, majoring in Control Science and Engineering
+  
+- Sep. 2008 - July 2012,  a undergraduate student at School of Automation, Qingdao University of Technology, majorinng in Automation Engineering. 
 
 # 💻 Teaching Assistant
 - *2022*, Introduction to Machine Learning
