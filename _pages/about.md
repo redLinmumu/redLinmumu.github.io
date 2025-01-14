@@ -30,18 +30,20 @@ I pursued my master's degree at the School of Automation, [Beijing Institute of 
   - **Fengjiao Gong**, Angxiao Yue, Hongteng Xu
   - The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)
 
-- AAAI 2025, An Optimal Transport-based Latent Mixer for Robust Multi-modal Learning (Accept)
+- An Optimal Transport-based Latent Mixer for Robust Multi-modal Learning (Accept)
   
-  **Fengjiao Gong**, Zichong Wang, Hongteng Xu  
+  - **Fengjiao Gong**, Zichong Wang, Hongteng Xu
+  - The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)
 
-- CIKM 2022, [Gromov-Wasserstein Multi-modal Alignment and Clustering](https://dl.acm.org/doi/abs/10.1145/3511808.3557339)
+- [Gromov-Wasserstein Multi-modal Alignment and Clustering](https://dl.acm.org/doi/abs/10.1145/3511808.3557339)
 
-  **Fengjiao Gong**`*`, **Xuzhou Nie**`*`, Hongteng Xu
+  - **Fengjiao Gong**`*`, **Xuzhou Nie**`*`, Hongteng Xu
+  -  The 31st ACM International Conference on Information and Knowledge Management (CIKM '22)
 
-- IHMSC 2015, [Extended State Observer Based Adaptive Integral Sliding Mode Control for Two Inertia System](https://ieeexplore.ieee.org/abstract/document/7334751)
+- [Extended State Observer Based Adaptive Integral Sliding Mode Control for Two Inertia System](https://ieeexplore.ieee.org/abstract/document/7334751)
   
-  **Fengjiao Gong**, Xuemei Ren
-
+  - **Fengjiao Gong**, Xuemei Ren
+  - 2015 7th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC 2015)
 
   
 # 📖 Educations
