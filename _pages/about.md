@@ -24,10 +24,13 @@ I pursued my master's degree at the School of Automation, [Beijing Institute of 
 
 
 # 📝 Publications 
+
 - ICASSP 2025, Unbalanced Co-relational Optimal Transport for Robust Heterogeneous Data Alignment  (Accept)
+  
   **Fengjiao Gong**, Angxiao Yue, Hongteng Xu
 
 - AAAI 2025, An Optimal Transport-based Latent Mixer for Robust Multi-modal Learning (Accept)
+  
   **Fengjiao Gong**, Zichong Wang, Hongteng Xu  
 
 - CIKM 2022, [Gromov-Wasserstein Multi-modal Alignment and Clustering](https://dl.acm.org/doi/abs/10.1145/3511808.3557339)
@@ -35,6 +38,7 @@ I pursued my master's degree at the School of Automation, [Beijing Institute of 
   **Fengjiao Gong**`*`, **Xuzhou Nie**`*`, Hongteng Xu
 
 - IHMSC 2015, [Extended State Observer Based Adaptive Integral Sliding Mode Control for Two Inertia System](https://ieeexplore.ieee.org/abstract/document/7334751)
+  
   **Fengjiao Gong**, Xuemei Ren
 
 
