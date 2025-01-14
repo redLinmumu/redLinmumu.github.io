@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-My research interest includes optimal transport and multi-modal alignment. I am currently   a Ph.D. student at the [Gaoling School of Artificial Intelligence]([http://ai.ruc.edu.cn/]), [Renmin University of China]([https://www.ruc.edu.cn/]), under the supervision of [Prof. Hongteng Xu]([https://hongtengxu.github.io/]). 
+My research interest includes optimal transport and multi-modal alignment. I am currently   a Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
 
 
 
