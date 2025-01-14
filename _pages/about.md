@@ -25,9 +25,10 @@ I pursued my master's degree at the School of Automation, [Beijing Institute of 
 
 # 📝 Publications 
 
-- ICASSP 2025, Unbalanced Co-relational Optimal Transport for Robust Heterogeneous Data Alignment  (Accept)
+- Unbalanced Co-relational Optimal Transport for Robust Heterogeneous Data Alignment  (Accept)
   
-  **Fengjiao Gong**, Angxiao Yue, Hongteng Xu
+  - **Fengjiao Gong**, Angxiao Yue, Hongteng Xu
+  - The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)
 
 - AAAI 2025, An Optimal Transport-based Latent Mixer for Robust Multi-modal Learning (Accept)
   
