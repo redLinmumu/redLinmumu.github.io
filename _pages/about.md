@@ -50,5 +50,11 @@ I pursued my master's degree at the School of Automation, [Beijing Institute of 
   
 - Sep. 2008 - July 2012,  a undergraduate student at School of Automation, Qingdao University of Technology, majorinng in Automation Engineering. 
 
+# Honors and Awards
+
+- 2012 Academic Year, National Scholarship, Qingdao University of Technology
+
+- 2013 Academic Year, National Scholarship, Qingdao University of Technology
+
 # 💻 Teaching Assistant
 - *2022*, Introduction to Machine Learning
