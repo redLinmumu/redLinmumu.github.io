@@ -20,7 +20,7 @@ redirect_from:
 
 
 My research interest includes optimal transport and multi-modal alignment. I am currently   a Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
-
+I pursued my master's degree at the School of Automation, Beijing Institute of Technology, under the supervision of [Prof. Xuemei Ren](https://pure.bit.edu.cn/en/persons/xuemei-ren).
 
 
 # 📝 Publications 
@@ -29,8 +29,10 @@ My research interest includes optimal transport and multi-modal alignment. I am 
 
   **Fengjiao Gong**`*`, **Xuzhou Nie**`*`, Hongteng Xu
 
+-IHMSC 2015, [Extended State Observer Based Adaptive Integral Sliding Mode Control for Two Inertia System](https://ieeexplore.ieee.org/abstract/document/7334751)
+  **Fengjiao Gong**, Xuemei Ren
 
-
+  
 # 📖 Educations
 - 2021.09 - now,  a Ph.D. student at Gaoling School of Artificial Intelligence, Renmin University of China. 
 
