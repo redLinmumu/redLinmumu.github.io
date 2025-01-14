@@ -27,12 +27,12 @@ I pursued my master's degree at the School of Automation, [Beijing Institute of 
 
 - Unbalanced Co-relational Optimal Transport for Robust Heterogeneous Data Alignment  (Accept)
   
-  - **Fengjiao Gong**, Angxiao Yue, Hongteng Xu
+  - **Fengjiao Gong**, Zichong Wang, Hongteng Xu
   - The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)
 
 - An Optimal Transport-based Latent Mixer for Robust Multi-modal Learning (Accept)
   
-  - **Fengjiao Gong**, Zichong Wang, Hongteng Xu
+  - **Fengjiao Gong**, Angxiao Yue, Hongteng Xu
   - The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)
 
 - [Gromov-Wasserstein Multi-modal Alignment and Clustering](https://dl.acm.org/doi/abs/10.1145/3511808.3557339)
