@@ -20,17 +20,23 @@ redirect_from:
 
 
 My research interest includes optimal transport and multi-modal alignment. I am currently   a Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
-I pursued my master's degree at the School of Automation, Beijing Institute of Technology, under the supervision of [Prof. Xuemei Ren](https://pure.bit.edu.cn/en/persons/xuemei-ren).
+I pursued my master's degree at the School of Automation, [Beijing Institute of Technology](https://www.bit.edu.cn/), under the supervision of [Prof. Xuemei Ren](https://pure.bit.edu.cn/en/persons/xuemei-ren).
 
 
 # 📝 Publications 
+- ICASSP 2025, Unbalanced Co-relational Optimal Transport for Robust Heterogeneous Data Alignment  (Accept)
+  **Fengjiao Gong**, Angxiao Yue, Hongteng Xu
+
+- AAAI 2025, An Optimal Transport-based Latent Mixer for Robust Multi-modal Learning (Accept)
+  **Fengjiao Gong**, Zichong Wang, Hongteng Xu  
 
 - CIKM 2022, [Gromov-Wasserstein Multi-modal Alignment and Clustering](https://dl.acm.org/doi/abs/10.1145/3511808.3557339)
 
   **Fengjiao Gong**`*`, **Xuzhou Nie**`*`, Hongteng Xu
 
--IHMSC 2015, [Extended State Observer Based Adaptive Integral Sliding Mode Control for Two Inertia System](https://ieeexplore.ieee.org/abstract/document/7334751)
+- IHMSC 2015, [Extended State Observer Based Adaptive Integral Sliding Mode Control for Two Inertia System](https://ieeexplore.ieee.org/abstract/document/7334751)
   **Fengjiao Gong**, Xuemei Ren
+
 
   
 # 📖 Educations
